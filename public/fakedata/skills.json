@@ -1,0 +1,53 @@
+[
+  {
+    "name": "sitecore",
+    "img": "/img/icons/sitecore1.png",
+    "perchant": "92%"
+  },
+  {
+    "name": "C-Sharp",
+    "img": "/img/icons/csharp.png",
+    "perchant": "80%"
+  },
+  {
+    "name": "Asp.Net MVc",
+    "img": "/img/icons/MVC.png",
+    "perchant": "85%"
+  },
+  {
+    "name": "Next js",
+    "img": "/img/icons/nextjs.png",
+    "perchant": "99%"
+  },
+  {
+    "name": "React",
+    "img": "/img/icons/react.png",
+    "perchant": "89%"
+  },
+  {
+    "name": "Html",
+    "img": "/img/icons/html.png",
+    "perchant": "93%"
+  },
+  {
+    "name": "css",
+    "img": "/img/icons/css.png",
+    "perchant": "85%"
+  },
+  {
+    "name": "JavaScript",
+    "img": "/img/icons/js.png",
+    "perchant": "93%"
+  },
+  {
+    "name": "Matrial UI",
+    "img": "/img/icons/Material-ui.png",
+    "perchant": "88%"
+  },
+  {
+    "name": "Tailwind css",
+    "img": "/img/icons/tailwindcss.png",
+    "perchant": "80%"
+  }
+  
+]

@@ -1,0 +1,102 @@
+[
+  {
+    "id": 1,
+    "title": "Web Development",
+    "img": "/img/services/1.png",
+    "iconName": "flaticon-design",
+    "desc": "Professional web development using React.js, Next.js, and ASP.NET MVC. Build fast, scalable, and mobile-friendly websites tailored to your business needs.",
+    "shortDesc": "Create fast, responsive websites using React.js and Next.js. Focus on clean architecture, performance optimization, and cross-device compatibility.",
+    "desc1": "I build modern websites using React and Next.js, ensuring performance and responsive design. Projects include e-commerce platforms, dashboards, and custom portals with smooth user experiences.",
+    "desc2": "With a focus on maintainable code, SEO optimization, and accessibility, I ensure your web presence stands out while remaining fast and functional on all devices.",
+    "totalProject": "10 Projects",
+    "process": {
+      "title": "Services Process",
+      "img": "/img/services/service-details.jpg",
+      "iconName": "flaticon-ux-design",
+      "desc": "Web development projects follow a well-structured approach, from planning and UI setup to coding, testing, and deployment using Vercel or other platforms.",
+      "processItems": [
+        "Requirement Gathering & Planning",
+        "Frontend Development (React/Next.js)",
+        "Responsive Design & Performance Tuning",
+        "API Integration",
+        "Testing & Optimization",
+        "Deployment & Support"
+      ]
+    }
+  },
+  {
+    "id": 2,
+    "title": "Sitecore Development",
+    "img": "/img/services/2.png",
+    "iconName": "flaticon-ux-design",
+    "desc": "Enterprise-level Sitecore development using both Traditional (MVC) and Headless (JSS, XM Cloud) approaches for flexible, scalable digital experiences.",
+    "shortDesc": "Deliver Sitecore XP/XM Cloud solutions using MVC, SXA, and JSS. Support headless development, multilingual content, and reusable components.",
+    "desc1": "Worked with top brands using Sitecore to create multisite architectures, reusable components with SXA, and content management strategies supporting scalability and localization.",
+    "desc2": "Experienced in Sitecore Commerce, Coveo search integration, GraphQL & REST APIs, and deploying solutions using XM Cloud and Headless JSS with Next.js.",
+    "totalProject": "8 Projects",
+    "process": {
+      "title": "Services Process",
+      "img": "/img/services/service-details.jpg",
+      "iconName": "flaticon-design",
+      "desc": "Sitecore projects follow a structured CMS and headless approach, including template design, component development, and integrations.",
+      "processItems": [
+        "Requirement Analysis",
+        "Component & Template Design",
+        "SXA or JSS Setup (Headless)",
+        "Integration with APIs and Search",
+        "Localization & Personalization",
+        "Deployment (XP/XM Cloud)"
+      ]
+    }
+  },
+  {
+    "id": 3,
+    "title": "API Integration",
+    "img": "/img/services/3.png",
+    "iconName": "flaticon-web-design",
+    "desc": "Integrate RESTful and GraphQL APIs into your frontend or CMS, enabling real-time data, third-party services, and extended app functionality.",
+    "shortDesc": "Build and integrate APIs to connect websites with third-party applications, enhancing functionality and performance.",
+    "desc1": "Skilled in connecting web apps with CRM systems, payment gateways, and headless CMS content using REST and GraphQL. Enhance performance and real-time updates.",
+    "desc2": "Used in both React/Next.js and Sitecore JSS environments to provide flexible, data-driven solutions for business workflows and e-commerce experiences.",
+    "totalProject": "12 Projects",
+    "process": {
+      "title": "Services Process",
+      "img": "/img/services/service-details.jpg",
+      "iconName": "flaticon-design",
+      "desc": "API projects involve secure setup, data fetching, caching, and testing to ensure smooth frontend-backend communication.",
+      "processItems": [
+        "API Planning & Requirements",
+        "Authentication & Security Setup",
+        "Data Fetching & State Handling",
+        "GraphQL/REST Integration",
+        "Testing & Performance Tuning",
+        "Deployment & Monitoring"
+      ]
+    }
+  },
+  {
+    "id": 4,
+    "title": "UI/UX Design",
+    "img": "/img/services/4.png",
+    "iconName": "flaticon-3d-movie",
+    "desc": "Design visually appealing and user-friendly interfaces using Tailwind CSS, Bootstrap, and best UI/UX principles to boost usability and user satisfaction.",
+    "shortDesc": "Create clean, modern, and accessible designs using Tailwind CSS and Bootstrap, focusing on responsive layout and usability.",
+    "desc1": "Designing layouts that align with brand identity and deliver seamless user journeys. Ensure accessibility, responsiveness, and intuitive navigation.",
+    "desc2": "Work closely with developers and clients to build interfaces that are not only visually appealing but also functional and optimized for conversions.",
+    "totalProject": "11 Projects",
+    "process": {
+      "title": "Services Process",
+      "img": "/img/services/service-details.jpg",
+      "iconName": "flaticon-design",
+      "desc": "UI/UX projects follow a creative and user-focused process, from wireframing to prototype and final design handoff.",
+      "processItems": [
+        "Research & Wireframing",
+        "Designing with Tailwind/Bootstrap",
+        "Client Feedback & Iterations",
+        "Accessibility & Responsiveness",
+        "Developer Handoff",
+        "Post-Launch Design Tweaks"
+      ]
+    }
+  }
+]

@@ -1,0 +1,158 @@
+/* [project]/src/app/css/flaticon_Siva.css [app-client] (css) */
+@font-face {
+  font-family: flaticon_Siva;
+  src: url("../fonts/flaticon_Siva.woff2?9ece749f93b45dc5cc6e2c206d60c453") format("woff2"), url("../fonts/flaticon_Siva.woff?9ece749f93b45dc5cc6e2c206d60c453") format("woff"), url("../fonts/flaticon_Siva.eot?9ece749f93b45dc5cc6e2c206d60c453#iefix") format("embedded-opentype"), url("../fonts/flaticon_Siva.ttf?9ece749f93b45dc5cc6e2c206d60c453") format("truetype"), url("../fonts/flaticon_Siva.svg?9ece749f93b45dc5cc6e2c206d60c453#flaticon_Siva") format("svg");
+}
+
+i[class^="flaticon-"]:before, i[class*=" flaticon-"]:before {
+  font-style: normal;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  font-family: flaticon_Siva !important;
+  font-weight: normal !important;
+}
+
+.flaticon-smartphone:before {
+  content: "";
+}
+
+.flaticon-browser:before {
+  content: "";
+}
+
+.flaticon-bezier-tool:before {
+  content: "";
+}
+
+.flaticon-code:before {
+  content: "";
+}
+
+.flaticon-crown:before {
+  content: "";
+}
+
+.flaticon-menu:before {
+  content: "";
+}
+
+.flaticon-hand-bag:before {
+  content: "";
+}
+
+.flaticon-trophy:before {
+  content: "";
+}
+
+.flaticon-download:before {
+  content: "";
+}
+
+.flaticon-graduation-cap:before {
+  content: "";
+}
+
+.flaticon-mortarboard:before {
+  content: "";
+}
+
+.flaticon-school:before {
+  content: "";
+}
+
+.flaticon-recommendation:before {
+  content: "";
+}
+
+.flaticon-certificate:before {
+  content: "";
+}
+
+.flaticon-experience:before {
+  content: "";
+}
+
+.flaticon-user-experience:before {
+  content: "";
+}
+
+.flaticon-seo:before {
+  content: "";
+}
+
+.flaticon-ui-design:before {
+  content: "";
+}
+
+.flaticon-web-design:before {
+  content: "";
+}
+
+.flaticon-ux-design:before {
+  content: "";
+}
+
+.flaticon-3d-movie:before {
+  content: "";
+}
+
+.flaticon-design:before {
+  content: "";
+}
+
+.flaticon-communicate:before {
+  content: "";
+}
+
+.flaticon-rating:before {
+  content: "";
+}
+
+.flaticon-skill-development:before {
+  content: "";
+}
+
+.flaticon-resume:before {
+  content: "";
+}
+
+.flaticon-suitcase:before {
+  content: "";
+}
+
+.flaticon-home-button:before {
+  content: "";
+}
+
+.flaticon-management-service:before {
+  content: "";
+}
+
+.flaticon-location:before {
+  content: "";
+}
+
+.flaticon-mail-inbox-app:before {
+  content: "";
+}
+
+.flaticon-phone-call:before {
+  content: "";
+}
+
+.flaticon-calendar:before {
+  content: "";
+}
+
+.flaticon-clock:before {
+  content: "";
+}
+
+.flaticon-up-right-arrow:before {
+  content: "";
+}
+
+/*# sourceMappingURL=src_app_css_flaticon_Siva_b52d8e.css.map*/

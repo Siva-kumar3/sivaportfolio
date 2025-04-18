@@ -1,0 +1,18 @@
+[
+    {
+        "iconName":"fa-brands fa-twitter",
+        "path":"https://www.facebook.com"
+    },
+    {
+        "iconName":"fa-light fa-instagram",
+        "path":"https://www.instagram.com/"
+    },
+    {
+        "iconName":"fa-brands fa-linkedin-in",
+        "path":"https://www.linkedin.com/in/siva-kumar-s-148872193/"
+    },
+    {
+        "iconName":"fa-brands fa-github",
+        "path":"https://github.com/Siva-kumar3?tab=projects"
+    }
+]

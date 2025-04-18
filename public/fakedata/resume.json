@@ -1,0 +1,34 @@
+[
+  {
+    "title": "My Experience",
+    "iconName": "flaticon-recommendation",
+    "resumeItems": [
+      {
+        "date": "Sep 2023 - Present",
+        "title": "React Developer",
+        "desc": "Hepto Technologies, Chennai"
+      },
+      {
+        "date": "Sep 2022 - May 2023",
+        "title": "Sitecore Developer",
+        "desc": "Accenture, Chennai"
+      }
+    ]
+  },
+  {
+    "title": "My Education",
+    "iconName": "flaticon-graduation-cap",
+    "resumeItems": [
+      {
+        "date": "2018 - 2022",
+        "title": "B.Tech in Information Technology",
+        "desc": "National Engineering College, Kovilpatti"
+      },
+      {
+        "date": "2016 - 2017",
+        "title": "Higher Secondary - Bio Mathematics",
+        "desc": "S.H.N.V Hr Sec School, Sivakasi"
+      }
+    ]
+  }
+]
