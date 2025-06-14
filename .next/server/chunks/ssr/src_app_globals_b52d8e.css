@@ -1235,10 +1235,6 @@ img, video {
   row-gap: 3.125rem;
 }
 
-.gap-x-px {
-  column-gap: 1px;
-}
-
 .overflow-hidden {
   overflow: hidden;
 }
@@ -5772,8 +5768,8 @@ body.tj-magic-cursor #magic-cursor {
     column-gap: 2.5rem;
   }
 
-  .xl\:gap-x-35px {
-    column-gap: 35px;
+  .xl\:gap-x-10px {
+    column-gap: 10px;
   }
 
   .xl\:gap-x-50px {
@@ -5786,10 +5782,6 @@ body.tj-magic-cursor #magic-cursor {
 
   .xl\:gap-y-35px {
     row-gap: 35px;
-  }
-
-  .xl\:gap-x-10px {
-    column-gap: 10px;
   }
 
   .xl\:p-5 {
