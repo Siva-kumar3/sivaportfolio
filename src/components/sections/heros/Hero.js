@@ -26,7 +26,7 @@ const Hero = () => {
 						</h1>
 						<div className="flex md:hidden justify-center items-center my-30px">
 							<Image
-								src="/img/hero/me.png"
+								src="/img/hero/myphoto.png"
 								width={437}
 								height={475}
 								alt="banner image"
