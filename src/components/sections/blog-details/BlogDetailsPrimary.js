@@ -375,18 +375,18 @@ const BlogDetailsPrimary = ({
 
 							{/* <!-- comments --> */}
 
-							<div className="mt-50px">
+							{/* <div className="mt-50px">
 								<h3 className="mb-30px pb-3 relative after:w-60px after:h-0.5 after:bg-primary-color after:absolute after:bottom-0 after:left-0 z-1">
 									<span className="text-primary-color-light dark:text-white-color capitalize relative z-0 text-size-22 md:text-3xl font-bold">
 										3 Comments
 									</span>
 								</h3>
-								{/* <!-- comments --> */}
+								 <!-- comments --> 
 								<BlogComments comments={comments} />
-							</div>
+							</div> */}
 							{/* <!-- comment form --> */}
 
-							<div className="pt-50px" id="comment-reply">
+							{/* <div className="pt-50px" id="comment-reply">
 								<h3 className="mb-30px pb-3 relative after:w-60px after:h-0.5 after:bg-primary-color after:absolute after:bottom-0 after:left-0 z-1">
 									<span className="text-primary-color-light dark:text-white-color capitalize relative z-0 text-size-22 md:text-3xl font-bold">
 										Leave a Reply
@@ -396,10 +396,10 @@ const BlogDetailsPrimary = ({
 									I design and code beautifully simple things and i love what i
 									do. Just simple like that!
 								</p>
-								{/* <!-- form --> */}
+								<!-- form -->
 								<form>
 									<div className="grid grid-cols-1 md:grid-cols-2 gap-x-6 gap-y-5">
-										{/* <!--  name --> */}
+										
 										<div>
 											<input
 												type="text"
@@ -407,7 +407,7 @@ const BlogDetailsPrimary = ({
 												className="text-white-color w-full px-5 py-14px border border-gray-color-3 bg-cream-light-color dark:bg-primary-color-light focus:border-primary-color rounded-lg outline-none focus:outline-none transition-all duration-300 placeholder:text-gray-color leading-1"
 											/>
 										</div>
-										{/* <!-- email --> */}
+										
 										<div>
 											<input
 												type="email"
@@ -455,7 +455,7 @@ const BlogDetailsPrimary = ({
 										</div>
 									</div>
 								</form>
-							</div>
+							</div> */}
 						</div>
 						{/* <!-- sidebar --> */}
 						<BlogSidebar />

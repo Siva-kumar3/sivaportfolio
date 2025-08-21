@@ -1,9 +1,7 @@
 /*-----------------------------------------------------------------------------------
 
 Theme Name: Siva - Personal Portfolio Tailwind CSS Template
-Theme URI: https://themejunction.net/
-Author: Theme-Junction
-Author URI: https://themeforest.net/user/theme-junction
+Author: siva-Junction
 Description: Siva - Personal Portfolio Tailwind CSS Template
 
 -----------------------------------------------------------------------------------

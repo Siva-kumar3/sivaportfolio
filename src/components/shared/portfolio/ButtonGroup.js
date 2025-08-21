@@ -2,6 +2,25 @@
 import { buttonBgAnimation } from "@/libs/bgAnimation";
 import React, { useEffect } from "react";
 
+const filterButtons = [
+  {
+    name: "All",
+    dataFilter: "*",
+  },
+  {
+    name: "Sitecore",
+    dataFilter: ".sitecore",
+  },
+  {
+    name: "next js",
+    dataFilter: ".next js",
+  },
+  {
+    name: "React",
+    dataFilter: ".react",
+  },
+  
+];
 // const filterButtons = [
 //   {
 //     name: "All",
@@ -12,33 +31,14 @@ import React, { useEffect } from "react";
 //     dataFilter: ".uxui",
 //   },
 //   {
-//     name: "Sitecore",
-//     dataFilter: ".sitecore",
+//     name: "Branding",
+//     dataFilter: ".branding",
 //   },
 //   {
-//     name: "React",
-//     dataFilter: ".react",
+//     name: "Apps",
+//     dataFilter: ".mobile-app",
 //   },
-  
 // ];
-const filterButtons = [
-  {
-    name: "All",
-    dataFilter: "*",
-  },
-  {
-    name: "UX/UI",
-    dataFilter: ".uxui",
-  },
-  {
-    name: "Branding",
-    dataFilter: ".branding",
-  },
-  {
-    name: "Apps",
-    dataFilter: ".mobile-app",
-  },
-];
 const ButtonGroup = () => {
   useEffect(() => {
     buttonBgAnimation();

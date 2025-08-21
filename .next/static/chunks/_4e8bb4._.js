@@ -2555,7 +2555,7 @@ const Logo = ({ isSticky })=>{
         className: "logo",
         children: [
             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$image$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["default"], {
-                className: `w-15 h-15 ${isInnerPage && !isSticky ? "inline-block " : " hidden dark:inline-block"} `,
+                className: `w-20 h-20 ${isInnerPage && !isSticky ? "inline-block " : " hidden dark:inline-block"} `,
                 src: "/img/logo/logo.png",
                 alt: "",
                 width: 1000,
@@ -2566,7 +2566,7 @@ const Logo = ({ isSticky })=>{
                 columnNumber: 13
             }, this),
             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$image$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["default"], {
-                className: `w-15 h-15 ${isInnerPage && !isSticky ? "hidden" : "inlin-block dark:hidden"}`,
+                className: `w-20 h-20 ${isInnerPage && !isSticky ? "hidden" : "inlin-block dark:hidden"}`,
                 src: "/img/logo/logo-dark.png",
                 alt: "",
                 width: 1000,
@@ -3012,7 +3012,7 @@ const Header = ({ isSticky })=>{
                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
                                 className: headerType === 4 ? `max-w-205px lg:max-w-130px xl:max-w-205px w-full` : "",
                                 children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("ul", {
-                                    className: "flex items-center gap-x-15px xl:gap-x-35px",
+                                    className: "flex items-center gap-x-4px xl:gap-x-10px",
                                     children: [
                                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("li", {
                                             children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$src$2f$components$2f$layout$2f$header$2f$Logo$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["default"], {
