@@ -1,9 +1,6 @@
 {
-  "app": {
-    "[project]/src/app/page": [],
-    "[project]/src/app/_not-found/page": []
-  },
-  "appUsingSizeAdjust": true,
+  "app": {},
+  "appUsingSizeAdjust": false,
   "pages": {},
   "pagesUsingSizeAdjust": false
 }
