@@ -1,7 +1,7 @@
 [
 	{
 		"id": 1,
-		"title": "Deloitte",
+		"title": "Huggies",
 		"title2": "Project Description",
 		"img": "/img/portfolio/2.jpg",
 		"imgLarge": "/img/project/project-5.png",
@@ -25,19 +25,19 @@
 		"statusItem": [
 			{
 				"title": "Category",
-				"desc": "Web Design"
+				"desc": "Sitecore "
 			},
 			{
 				"title": "Client",
-				"desc": "Artboard Studio"
+				"desc": "kimberly clark"
 			},
 			{
 				"title": "Start Date",
-				"desc": "August 20, 2023"
+				"desc": "September 20, 2022"
 			},
 			{
-				"title": "Designer",
-				"desc": "ThemeJunction"
+				"title": "Developer",
+				"desc": "Site Development"
 			}
 		],
 		"descItems": [
@@ -53,7 +53,7 @@
 	},
 	{
 		"id": 2,
-		"title": "New Age",
+		"title": "Dry nites",
 		"title2": "Project Description",
 		"img": "/img/portfolio/3.jpg",
 		"imgLarge": "/img/portfolio/1.jpg",
@@ -77,19 +77,19 @@
 		"statusItem": [
 			{
 				"title": "Category",
-				"desc": "Web Design"
+				"desc": "Sitecore "
 			},
 			{
 				"title": "Client",
-				"desc": "Artboard Studio"
+				"desc": "kimberly clark"
 			},
 			{
 				"title": "Start Date",
-				"desc": "August 20, 2023"
+				"desc": "September 20, 2022"
 			},
 			{
-				"title": "Designer",
-				"desc": "ThemeJunction"
+				"title": "Developer",
+				"desc": "Site Development"
 			}
 		],
 		"descItems": [

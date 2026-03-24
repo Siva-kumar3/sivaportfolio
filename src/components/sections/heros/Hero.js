@@ -34,7 +34,7 @@ const Hero = () => {
 							/>
 						</div>
 						<p className="text-xl leading-1.5 text-primary-color-light dark:text-body-color max-w-540px">
-							Passionate about building scalable web apps using Sitecore,React, Next.js & Sitecore JSS
+							Passionate about building scalable web apps using Sitecore,React, Next.js & Sitecore JSS &sitecore AI
 							{/* I break down complex user experinece problems to create integritiy
 							focussed solutions that connect billions of people */}
 						</p>
