@@ -6,9 +6,8 @@ import { notFound } from "next/navigation";
 const services = getALlServices();
 
 export const metadata = {
-  title: "Service Details - Siva - Personal Portfolio React  NextJs Template",
-  description:
-    "Service Details - Siva - Personal Portfolio React  NextJs Template",
+  title: "Sitecore Developer | React & Next.js | XM Cloud Expert",
+  description: "Portfolio of Siva, Sitecore XM Cloud developer using React and Next.js."
 };
 
 export default async function ServiceDetails({ params }) {

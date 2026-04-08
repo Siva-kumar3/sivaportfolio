@@ -4,9 +4,8 @@ import getBlogs from "@/libs/getBlogs";
 import { notFound } from "next/navigation";
 const blogs = getBlogs();
 export const metadata = {
-  title: "Blog Details - Siva - Personal Portfolio React  NextJs Template",
-  description:
-    "Blog Details - Siva - Personal Portfolio React  NextJs Template",
+  title: "Sitecore Developer | React & Next.js | XM Cloud Expert",
+  description: "Portfolio of Siva, Sitecore XM Cloud developer using React and Next.js."
 };
 
 export default async function BlogDetails({ params }) {

@@ -4,10 +4,8 @@ import getPortfolio from "@/libs/getPortfolio";
 import { notFound } from "next/navigation";
 const portfolio = getPortfolio();
 export const metadata = {
-  title:
-    "Portfolio Details - Siva - Personal Portfolio React  NextJs Template",
-  description:
-    "Portfolio Details - Siva - Personal Portfolio React  NextJs Template",
+  title: "Sitecore Developer | React & Next.js | XM Cloud Expert",
+  description: "Portfolio of Siva, Sitecore XM Cloud developer using React and Next.js."
 };
 
 export default async function PortfolioDetails({ params }) {
