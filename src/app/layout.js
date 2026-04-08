@@ -14,8 +14,8 @@ import "./css/odometer-theme-default.css";
 import "./globals.css";
 
 export const metadata = {
-	title: "Siva - Personal Portfolio React  NextJs Template",
-	description: "Siva - Personal Portfolio React  NextJs Template",
+  title: "Sitecore Developer | React & Next.js | XM Cloud Expert",
+  description: "Portfolio of Siva, Sitecore developer using React and Next.js."
 };
 
 export default function RootLayout({ children }) {
