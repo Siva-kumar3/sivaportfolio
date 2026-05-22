@@ -64,13 +64,13 @@ const PortfolioDetailsPrimary = () => {
 													{desc}
 												</p>
 												<div>
-													<ButtonPrimary
+													{/* <ButtonPrimary
 														className={"group/nested"}
 														url={"/#contact"}
 													>
 														live preview
 														<i className="fal fa-arrow-right ml-10px -rotate-45 group-hover/nested:rotate-0 transition-all duration-300"></i>
-													</ButtonPrimary>
+													</ButtonPrimary> */}
 												</div>
 											</div>
 											<ul className="grid grid-cols-2 gap-x-15px lg:gap-x-5 gap-y-5 md:gap-y-30px">
