@@ -21,7 +21,7 @@ const Hero = () => {
 							I am Siva
 						</h4>
 						<h1 className="text-size-35 md:text-size-38 lg:text-size-50 xl:text-6xl 2xl:text-size-65 bg-gradient-text-light dark:bg-gradient-text bg-clip-text xl:leading-1.2 text-transparent mb-15px">
-							React and Sitcore <br />
+							Full stack Sitcore <br />
 							Developer.
 						</h1>
 						<div className="flex md:hidden justify-center items-center my-30px">

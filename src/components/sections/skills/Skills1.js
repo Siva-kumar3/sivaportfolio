@@ -66,9 +66,9 @@ const Skills1 = ({ type, subTitle, isNotDesc }) => {
 												height={600}
 											/>
 										</div>
-										<div className="text-xl text-gray-color-2 group-hover:text-primary-color transition-none duration-300 font-extrabold">
+										{/* <div className="text-xl text-gray-color-2 group-hover:text-primary-color transition-none duration-300 font-extrabold">
 											{perchant}
-										</div>
+										</div> */}
 									</div>
 									<p className="text-primary-color text-center">{name}</p>
 								</div>

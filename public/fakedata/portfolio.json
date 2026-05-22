@@ -11,7 +11,7 @@
 		"desc1": "The goal is there are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable.",
 		"desc2": "There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable. If you are going to use a passage of Lorem Ipsum, you need to be sure there isn't anything embarrassing hidden in the middle of text.",
 
-		"category": "Branding",
+		"category": "Sitecore",
 		"featured": true,
 		"featuredDesc": " Project was about precision and information. That’s all. Our design tem helps clients achieve their marketing Trager and branding that appeals to a website",
 		"featuredImg": "/img/project/project-2.png",
@@ -21,7 +21,7 @@
 			"img": "/img/project/project-1.png"
 		},
 		"tags": ["Branding", "Graphic Design", "User Stories"],
-		"dataFilter": "branding",
+		"dataFilter": "sitecore",
 		"statusItem": [
 			{
 				"title": "Category",
@@ -63,7 +63,7 @@
 		"desc1": "The goal is there are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable.",
 		"desc2": "There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable. If you are going to use a passage of Lorem Ipsum, you need to be sure there isn't anything embarrassing hidden in the middle of text.",
 
-		"category": "UX/UI",
+		"category": "Sitecore",
 		"featured": true,
 		"featuredDesc": " Project was about precision and information. That’s all. Our design tem helps clients achieve their marketing Trager and branding that appeals to a website",
 		"featuredImg": "/img/project/project-3.png",
@@ -73,7 +73,7 @@
 			"img": ""
 		},
 		"tags": ["Branding", "Graphic Design", "User Stories"],
-		"dataFilter": "uxui",
+		"dataFilter": "sitecore",
 		"statusItem": [
 			{
 				"title": "Category",
@@ -115,7 +115,7 @@
 		"desc1": "The goal is there are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable.",
 		"desc2": "There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable. If you are going to use a passage of Lorem Ipsum, you need to be sure there isn't anything embarrassing hidden in the middle of text.",
 
-		"category": "Apps",
+		"category": "Next js",
 		"featured": true,
 		"featuredDesc": " Project was about precision and information. That’s all. Our design tem helps clients achieve their marketing Trager and branding that appeals to a website",
 		"featuredImg": "/img/project/project-4.png",
@@ -125,7 +125,7 @@
 			"img": ""
 		},
 		"tags": ["Branding", "Graphic Design", "User Stories"],
-		"dataFilter": "mobile-app",
+		"dataFilter":"next js",
 		"statusItem": [
 			{
 				"title": "Category",
@@ -167,7 +167,7 @@
 		"desc1": "The goal is there are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable.",
 		"desc2": "There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable. If you are going to use a passage of Lorem Ipsum, you need to be sure there isn't anything embarrassing hidden in the middle of text.",
 
-		"category": "Branding",
+		"category": "React",
 		"featured": false,
 		"featuredDesc": " Project was about precision and information. That’s all. Our design tem helps clients achieve their marketing Trager and branding that appeals to a website",
 		"featuredImg": "/img/project/project-2.png",
@@ -177,7 +177,7 @@
 			"img": ""
 		},
 		"tags": ["Branding", "Graphic Design", "User Stories"],
-		"dataFilter": "branding",
+		"dataFilter": "react",
 		"statusItem": [
 			{
 				"title": "Category",
